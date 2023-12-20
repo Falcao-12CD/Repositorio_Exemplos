@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #d5d5d5 url('../images/fundo.png');
+	font: 16px, Arial, Helvetica, sans-serif;
+
+}
+
+#Principal{
+	width: 900px;
+	height: 300px;
+	display: block;
+	margin: 0px auto;
+}
+
+#Menu{
+	background: #c5c5b2;
+	padding: 15px;
+	text-align: center;
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+a:link{
+	color: #4b566a;
+}
+
+a:visited{
+	color: #4b566a;
+}
+
+a:active{
+	color: #e8e8d9;
+}
+
+a:hover{
+	color: #e8e8d9;
+}
+
+#Conteudo{
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+h1{
+	text-align: center;
+	padding: 10px;
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+}
+
+#Rodape{
+	background: #e8e8d9;
+	text-align: center;
+	padding: 15px;
+}
+
+.campanha{
+	border: 10px solid #c3c3c3;
+	display: block;
+	margin: 0 auto;
+}
+
+.contato{
+	padding: 10px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
